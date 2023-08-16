@@ -25,9 +25,3 @@ Grade: Summa Cum Laude
 **BS in Business Engineering** (Sep 2016 - Jul 2019)\
 Ghent University\
 Grade: Magna Cum Laude
-
-<!---
-- check on how to manually order tabs
-- list all academic affiliations? (also CVAMO?)
-- get list of pages on front page
--->
