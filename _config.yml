@@ -21,7 +21,7 @@
 title: Arthur Thuy
 email: arthur.thuy@ugent.be
 description: Personal website of Arthur Thuy
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arthur-thuy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: arthur-thuy
 github_username:  arthur-thuy
