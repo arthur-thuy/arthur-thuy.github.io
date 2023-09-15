@@ -76,6 +76,7 @@ exclude:
 # order as they should show up.
 header_pages:
   - about.md
+  - education.md
   - publications.md
   - honors_awards.md
 
