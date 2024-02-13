@@ -11,7 +11,11 @@ permalink: /publications/
 Arthur Thuy, Dries F. Benoit\
 _European Journal of Operational Research (2023)_
 
-# Conference papers
+# Conference presentations
+
+**Cheaper neural network ensembles: a case study in manufacturing**\
+Arthur Thuy, Thomas Suys, Dries F. Benoit\
+_38th Annual Conference of the Belgian Operational Research Society (ORBEL38)_
 
 **Leveraging uncertainty estimation for trustworthy predictions in decision-making**\
 \[[meeting abstract](https://biblio.ugent.be/publication/01H5M95ZCPSK1WQS5DJYR7HDBZ)\]\
