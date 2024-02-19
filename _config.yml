@@ -75,10 +75,11 @@ exclude:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 header_pages:
-  - about.md
-  - education.md
-  - publications.md
-  - honors_awards.md
+  - pages/about.md
+  - pages/education.md
+  - pages/publications.md
+  - pages/honors_awards.md
+  - pages/cv.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true

@@ -7,7 +7,7 @@ permalink: /publications/
 # Journal papers
 
 **Explainability through uncertainty: Trustworthy decision-making with neural networks**\
-\[[accepted manuscript](./assets/Explainability_through_uncertainty_Trustworthy_decision-making_with_neural_networks.pdf)\] \[[published journal article](https://doi.org/10.1016/j.ejor.2023.09.009)\]\
+\[[accepted manuscript](../assets/Explainability_through_uncertainty_Trustworthy_decision-making_with_neural_networks.pdf)\] \[[published journal article](https://doi.org/10.1016/j.ejor.2023.09.009)\]\
 Arthur Thuy, Dries F. Benoit\
 _European Journal of Operational Research (2023)_
 
