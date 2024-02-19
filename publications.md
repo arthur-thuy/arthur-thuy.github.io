@@ -14,6 +14,7 @@ _European Journal of Operational Research (2023)_
 # Conference presentations
 
 **Cheaper neural network ensembles: a case study in manufacturing**\
+\[[meeting abstract](https://biblio.ugent.be/publication/01HPHGNCPPV2CBQPPK6BPN33A4)\]\
 Arthur Thuy, Thomas Suys, Dries F. Benoit\
 _38th Annual Conference of the Belgian Operational Research Society (ORBEL38)_
 
