@@ -4,10 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-# Journal papers
+# Papers
+
+**Reliable uncertainty with cheaper neural network ensembles: a case study in industrial parts classification**\
+\[[arXiv preprint](https://arxiv.org/abs/2403.10182)\]\
+Arthur Thuy, Dries F. Benoit\
+_arXiv (2024)_
 
 **Explainability through uncertainty: Trustworthy decision-making with neural networks**\
-\[[accepted manuscript](../assets/Explainability_through_uncertainty_Trustworthy_decision-making_with_neural_networks.pdf)\] \[[published journal article](https://doi.org/10.1016/j.ejor.2023.09.009)\]\
+\[[accepted manuscript](https://arxiv.org/abs/2403.10168)\] \[[published journal article](https://doi.org/10.1016/j.ejor.2023.09.009)\]\
 Arthur Thuy, Dries F. Benoit\
 _European Journal of Operational Research (2023)_
 
