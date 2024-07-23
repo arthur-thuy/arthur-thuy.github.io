@@ -18,6 +18,11 @@ _European Journal of Operational Research (2023)_
 
 # Conference presentations
 
+**Active Learning to Guide Labeling Efforts for Question Difficulty Estimation**\
+<!-- \[[meeting abstract]()\]\ -->
+Arthur Thuy, Ekaterina Loginova, Dries F. Benoit\
+_33rd European Conference on Operational Research (EURO2024), 384-384_
+
 **Cheaper neural network ensembles: a case study in manufacturing**\
 \[[meeting abstract](https://biblio.ugent.be/publication/01HPHGNCPPV2CBQPPK6BPN33A4)\]\
 Arthur Thuy, Thomas Suys, Dries F. Benoit\
