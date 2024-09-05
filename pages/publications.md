@@ -6,6 +6,11 @@ permalink: /publications/
 
 # Papers
 
+**Active Learning to Guide Labeling Efforts for Question Difficulty Estimation**\
+<!-- \[[accepted manuscript]()\] \[[published journal article]()\]\ -->
+Arthur Thuy, Ekaterina Loginova, Dries F. Benoit\
+_European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) (2024)_
+
 **Reliable uncertainty with cheaper neural network ensembles: a case study in industrial parts classification**\
 \[[arXiv preprint](https://arxiv.org/abs/2403.10182)\]\
 Arthur Thuy, Dries F. Benoit\
@@ -14,12 +19,12 @@ _arXiv (2024)_
 **Explainability through uncertainty: Trustworthy decision-making with neural networks**\
 \[[accepted manuscript](https://arxiv.org/abs/2403.10168)\] \[[published journal article](https://doi.org/10.1016/j.ejor.2023.09.009)\]\
 Arthur Thuy, Dries F. Benoit\
-_European Journal of Operational Research (2023)_
+_European Journal of Operational Research (EJOR) (2023)_
 
 # Conference presentations
 
-**Active Learning to Guide Labeling Efforts for Question Difficulty Estimation**\
-<!-- \[[meeting abstract]()\]\ -->
+**Guiding labeling efforts in question difficulty estimation using active learning**\
+\[[meeting abstract](https://biblio.ugent.be/publication/01J3G6WY4A0S5BS5452R0B3Z1T)\]\
 Arthur Thuy, Ekaterina Loginova, Dries F. Benoit\
 _33rd European Conference on Operational Research (EURO2024), 384-384_
 
