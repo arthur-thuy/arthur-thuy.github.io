@@ -7,7 +7,7 @@ permalink: /publications/
 # Papers
 
 **Active Learning to Guide Labeling Efforts for Question Difficulty Estimation**\
-\[[accepted manuscript](https://arxiv.org/abs/2409.09258)\] 
+\[[accepted manuscript](https://arxiv.org/abs/2409.09258)\]\
 <!-- \[[published journal article]()\]\ -->
 Arthur Thuy, Ekaterina Loginova, Dries F. Benoit\
 _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) (2024)_
