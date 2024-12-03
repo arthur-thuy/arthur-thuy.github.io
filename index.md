@@ -4,7 +4,7 @@ title: About Me
 order: 1
 ---
 
-<p style="text-align:center;"><img src="./assets/Arthur_Thuy_picture.jpg" alt="profile_picture" width="300"/></p>
+<p style="text-align:center;"><img src="./assets/profile_picture_arthur_thuy.png" alt="profile_picture" width="400"/></p>
 
 My name is Arthur Thuy and I am a PhD researcher at the [Data Analytics cluster](https://www.ugent.be/eb/mio/en/research/dataanalytics) of the Faculty of Economics at Ghent University. I am a PhD fellow at the [Research Foundation - Flanders (FWO)](https://www.fwo.be/en/the-fwo/profile/) and I am also affiliated to the [CVAMO Flanders Make Lab](https://ugent-cvamo.github.io/).
 
