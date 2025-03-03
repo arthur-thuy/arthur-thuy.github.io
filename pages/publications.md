@@ -9,7 +9,7 @@ permalink: /publications/
 
 
 **Fast and reliable uncertainty quantification with neural network ensembles for industrial image classification**\
-\[[accepted manuscript](https://arxiv.org/abs/2403.10182)\]\ \[[published journal article](https://link.springer.com/article/10.1007/s10479-024-06440-4)\]\
+\[[accepted manuscript](https://arxiv.org/abs/2403.10182)\] \[[published journal article](https://link.springer.com/article/10.1007/s10479-024-06440-4)\]\
 Arthur Thuy, Dries F. Benoit\
 _Annals of Operations Research (2024)_
 
