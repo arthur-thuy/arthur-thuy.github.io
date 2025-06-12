@@ -27,19 +27,22 @@ _European Journal of Operational Research (EJOR) (2023)_
 
 # Conference presentations
 
-<!-- TODO: ORBEL 2025 presentation -->
+**Ordinal regression for question difficulty estimation with transformer-based neural networks**\
+\[[meeting abstract](https://biblio.ugent.be/publication/01JWZBKVR0RE509NA5TYVAFD95)\]\
+Arthur Thuy, Ekaterina Loginova, Dries F. Benoit\
+_Joint ORBEL-NGB Conference on Operations Research (Maastricht, 2025)_
 
 **Guiding labeling efforts in question difficulty estimation using active learning**\
 \[[meeting abstract](https://biblio.ugent.be/publication/01J3G6WY4A0S5BS5452R0B3Z1T)\]\
 Arthur Thuy, Ekaterina Loginova, Dries F. Benoit\
-_33rd European Conference on Operational Research (EURO2024), 384-384_
+_33rd European Conference on Operational Research (EURO2024), 384-384 (Copenhagen, 2024)_
 
 **Cheaper neural network ensembles: a case study in manufacturing**\
 \[[meeting abstract](https://biblio.ugent.be/publication/01HPHGNCPPV2CBQPPK6BPN33A4)\]\
 Arthur Thuy, Thomas Suys, Dries F. Benoit\
-_38th Annual Conference of the Belgian Operational Research Society (ORBEL38)_
+_38th Annual Conference of the Belgian Operational Research Society (ORBEL38) (Antwerp, 2024)_
 
 **Leveraging uncertainty estimation for trustworthy predictions in decision-making**\
 \[[meeting abstract](https://biblio.ugent.be/publication/01H5M95ZCPSK1WQS5DJYR7HDBZ)\]\
 Arthur Thuy, Dries F. Benoit\
-_32nd European Conference on Operational Research (EURO2022), 54-54_
+_32nd European Conference on Operational Research (EURO2022), 54-54 (Helsinki, 2022)_
