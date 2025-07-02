@@ -6,7 +6,11 @@ permalink: /publications/
 
 # Papers
 
-
+**Ordinality in Discrete-level Question Difficulty Estimation: Introducing Balanced DRPS and OrderedLogitNN**\
+\[[accepted manuscript](https://arxiv.org/abs/2507.00736)\]\
+<!-- \[[published journal article]()\]\ -->
+Arthur Thuy, Ekaterina Loginova, Dries F. Benoit\
+_International Conference on Artificial Intelligence in Education (AIED) (2025)_
 
 **Fast and reliable uncertainty quantification with neural network ensembles for industrial image classification**\
 \[[accepted manuscript](https://arxiv.org/abs/2403.10182)\] \[[published journal article](https://link.springer.com/article/10.1007/s10479-024-06440-4)\]\
@@ -18,7 +22,6 @@ _Annals of Operations Research (2024)_
 <!-- \[[published journal article]()\]\ -->
 Arthur Thuy, Ekaterina Loginova, Dries F. Benoit\
 _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) (2024)_
-
 
 **Explainability through uncertainty: Trustworthy decision-making with neural networks**\
 \[[accepted manuscript](https://arxiv.org/abs/2403.10168)\] \[[published journal article](https://doi.org/10.1016/j.ejor.2023.09.009)\]\
