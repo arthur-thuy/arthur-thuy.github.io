@@ -1,7 +1,13 @@
----
+<!-- ---
 layout: null
 permalink: /uantwerp_uncertainty_2025/
 redirect_to: "/assets/uantwerp_uncertainty_2025.pdf"
+--- -->
+
+---
+layout: null
+permalink: /uantwerp_uncertainty_2025/
+redirect_to: "/assets/cv_arthur_thuy.pdf"
 ---
 
 <!-- <script>
