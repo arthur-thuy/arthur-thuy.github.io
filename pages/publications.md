@@ -50,7 +50,7 @@ _38th Annual Conference of the Belgian Operational Research Society (ORBEL38) (A
 Arthur Thuy, Dries F. Benoit\
 _32nd European Conference on Operational Research (EURO2022), 54-54 (Helsinki, 2022)_
 
-# PhD Dissertation
+# PhD dissertation
 
 **Learning Analytics with Neural Networks: Addressing Open Challenges Through Uncertainty Quantification and Natural Language Processing**\
 \[[manuscript](https://biblio.ugent.be/publication/01KA3AHBY1WHP708AS07S0QWS9)\]\
