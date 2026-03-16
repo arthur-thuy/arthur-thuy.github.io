@@ -6,6 +6,11 @@ permalink: /publications/
 
 # Papers
 
+**Simulating Student Interactions for Virtual Pretesting with In-Context Learning**\
+<!-- \[[published journal article]()\]\ -->
+Arthur Thuy, Luca Benedetto, Ekaterina Loginova, Dries F. Benoit\
+_Language Resources and Evaluation Conference (LREC) (2026)_
+
 **Ordinality in Discrete-level Question Difficulty Estimation: Introducing Balanced DRPS and OrderedLogitNN**\
 \[[accepted manuscript](https://arxiv.org/abs/2507.00736)\]\
 <!-- \[[published journal article]()\]\ -->
